@@ -13,7 +13,7 @@ npm run dev
 
 http://localhost:3008
 
-Для production: `npm run build`, затем `npm start`.
+Для production: `npm run build`; готовая статическая версия появится в папке `out`.
 
 ## Публикация
 
